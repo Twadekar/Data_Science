@@ -1,5 +1,6 @@
 This is a machine learning project using the Toyota Corolla information for Prediction of price of Toyota corolla.
 
+
 ## Technologies Used
 -Visual Studio Code
 - Python
@@ -11,4 +12,5 @@ This is a machine learning project using the Toyota Corolla information for Pred
 2. Install requirements: `pip install -r requirements.txt`
 3. Run `Solution.ipynb`
 
-## Output
+
+
