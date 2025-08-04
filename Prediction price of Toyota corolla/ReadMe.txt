@@ -12,4 +12,3 @@ This is a machine learning project using the Toyota Corolla information for Pred
 3. Run `Solution.ipynb`
 
 ## Output
-Model accuracy: 95%
